@@ -1,4 +1,4 @@
-1. Boulder Dash
-2. Boulder Dash II
-3. Zynaps
-4. Earth Shaker
+1. Boulder Dash I
+2. Earth Shaker
+3. Exolon
+4. Manic Miner
